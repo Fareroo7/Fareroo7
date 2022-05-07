@@ -8,6 +8,8 @@
 <img align="left" alt="JavaScript" width="26px" src="/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="/icons/python/python-original.svg" style="padding-right:10px;" />
 
+<br>
+
 ### Tools:
 
 <img align="left" alt="Azure" width="26px" src="/icons/azure/azure-original.svg" style="padding-right:10px;" />
@@ -21,6 +23,8 @@
 <img align="left" alt="SqlServer" width="26px" src="/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
+<br>
+
 ### Web:
 
 <img align="left" alt="HTML5" width="26px" src="/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -31,27 +35,30 @@
 <img align="left" alt="React" width="26px" src="/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJs" width="26px" src="/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
+<br>
+
 ### Plattforms:
 
 <img align="left" alt="Arduino" width="26px" src="/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RaspberryPi" width="26px" src="/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
+<br>
 
 ### OS:
 
 <img align="left" alt="Windows" width="26px" src="/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Debian" width="26px" src="/icons/debian/debian-original.svg" style="padding-right:10px;" />
 
-
-
-
-
-
-
-
-
-
 <br>
+
+
+
+
+
+
+
+
+
 
 ![](/icons/windows8/windows8-original.svg)
 
