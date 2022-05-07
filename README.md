@@ -6,6 +6,7 @@
 ---
 
 <img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg#gh-dark-mode-only" style="padding-right:10px;" />
 
 ---
 
