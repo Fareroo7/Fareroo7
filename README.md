@@ -16,8 +16,8 @@
 [![](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;-->
-[![](./img/instagram-light.svg)](https://www.instagram.com/s1m_d0m#gh-light-mode-only)
-[![](./img/instagram-dark.svg)](https://www.instagram.com/s1m_d0m#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/s1m_d0m#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/s1m_d0m#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -62,7 +62,9 @@
 
 ---
 
-<img align="left" alt="Fareroo7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+![Fareroo7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fareroo7&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
 
 <!--
 **Fareroo7/Fareroo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
