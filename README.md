@@ -1,5 +1,10 @@
 # Hi there, I'm Dominik - aka Fareroo7 👋 
 
+## I'm a Developer!!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Learn more about Business Central
+- ⚡ I love to game and ride bikes
+
 ### Languages and Tools:
 
 <img align="left" alt="CPlusPlus" width="26px" src="/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
@@ -40,6 +45,8 @@
 <br>
 
 ---
+
+<img align="left" alt="Fareroo7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false" />
 
 <!--
 **Fareroo7/Fareroo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
