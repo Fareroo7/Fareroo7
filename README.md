@@ -1,10 +1,8 @@
-### Hi there 👋
----
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+# Hi there, I'm Dominik - aka Fareroo7 👋 
 
----
+### Languages and Tools:
 
+<img align="left" alt="GitHub" width="26px" src="/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg#gh-light-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg#gh-dark-mode-only" style="padding-right:10px;" />
 
