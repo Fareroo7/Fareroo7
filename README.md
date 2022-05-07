@@ -62,6 +62,10 @@
 
 ---
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
 ![Fareroo7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fareroo7&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
