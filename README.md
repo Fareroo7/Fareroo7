@@ -5,8 +5,8 @@
 
 ---
 
-![GitHub](/icons/github/github-original.svg#gh-dark-mode-only)
-![GitHub](/icons/github/github-original.svg#gh-light-mode-only)
+![GitHub](/icons/github/github-original.svg#gh-dark-mode-only | width=100)
+![GitHub](/icons/github/github-original.svg#gh-light-mode-only | width=100)
 
 ---
 
