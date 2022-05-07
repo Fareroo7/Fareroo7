@@ -7,6 +7,7 @@
 <img align="left" alt="Java" width="26px" src="/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="26px" src="/icons/go/go-original.svg" style="padding-right:10px;" />
 
 <br>
 
@@ -16,12 +17,10 @@
 <img align="left" alt="Dot-Net" width="26px" src="/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
 <img align="left" alt="DotNetCore" width="26px" src="/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kubernetes" width="26px" src="/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SqlServer" width="26px" src="/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kubernetes" width="26px" src="/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 
 <br>
 
@@ -34,6 +33,16 @@
 <img align="left" alt="Wordpress" width="26px" src="/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJs" width="26px" src="/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SqlServer" width="26px" src="/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+<br>
+
+### OS:
+
+<img align="left" alt="Windows" width="26px" src="/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Debian" width="26px" src="/icons/debian/debian-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 
 <br>
 
@@ -43,24 +52,6 @@
 <img align="left" alt="RaspberryPi" width="26px" src="/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
 <br>
-
-### OS:
-
-<img align="left" alt="Windows" width="26px" src="/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Debian" width="26px" src="/icons/debian/debian-original.svg" style="padding-right:10px;" />
-
-<br>
-
-
-
-
-
-
-
-
-
-
-![](/icons/windows8/windows8-original.svg)
 
 ---
 
