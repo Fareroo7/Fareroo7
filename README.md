@@ -3,7 +3,21 @@
 ## I'm a Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Business Central
-- ⚡ I love to game and ride bikes
+- ⚡ I love to ride bikes and game
+
+### Connect with me:
+
+<!--[![](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;-->
+[![](./img/instagram-light.svg)](https://www.instagram.com/s1m_d0m#gh-light-mode-only)
+[![](./img/instagram-dark.svg)](https://www.instagram.com/s1m_d0m#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -23,6 +37,8 @@
 <img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="VisualStudio" width="26px" src="/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="VSCode" width="26px" src="/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="26px" src="/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -46,7 +62,7 @@
 
 ---
 
-<img align="left" alt="Fareroo7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false" />
+<img align="left" alt="Fareroo7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
 <!--
 **Fareroo7/Fareroo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
