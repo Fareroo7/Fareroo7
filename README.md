@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<div>
+<div style="height: 50px;">
   <img align="left" alt="CPlusPlus" width="26px" src="/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="CSharp" width="26px" src="/icons/csharp/csharp-original.svg" />
   <img align="left" alt="Java" width="26px" src="/icons/java/java-original.svg" />
@@ -63,9 +63,6 @@
 </div>
 
 <br />
-<br />
-
----
 
 ### Recent Activity:
 
