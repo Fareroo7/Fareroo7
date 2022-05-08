@@ -34,7 +34,8 @@
 <img align="left" alt="DotNetCore" width="26px" src="/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="/icons/github/github-original.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="/icons/github/github-original-light.svg#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitLab" width="26px" src="/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="VisualStudio" width="26px" src="/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
