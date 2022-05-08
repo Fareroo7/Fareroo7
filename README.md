@@ -62,7 +62,6 @@
 &nbsp;
 
 <br />
-<br />
 
 &nbsp;
 
