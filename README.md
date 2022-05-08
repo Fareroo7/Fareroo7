@@ -42,7 +42,6 @@
 <img align="left" alt="VSCode" width="26px" src="/icons/vscode/vscode-original.svg" />
 
 <br />
-<br />
 
 <img align="left" alt="HTML5" width="26px" src="/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="26px" src="/icons/css3/css3-original.svg" />
