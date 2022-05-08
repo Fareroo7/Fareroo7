@@ -3,15 +3,15 @@
 ## I'm a Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Business Central
-- ⚡ I love to ride bikes and game
+- ⚡ Fun fact: I love to ride bikes and game
 
 ### Connect with me:
 
-<!--[![](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+<!--[![](./img/globe-light.svg)](#gh-light-mode-only)
+[![](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![](./img/linkedin-light.svg)](#gh-light-mode-only)
+[![](./img/linkedin-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;-->
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/Fareroo7#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/Fareroo7#gh-dark-mode-only)
@@ -71,18 +71,3 @@
 ![Fareroo7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fareroo7&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
-
-<!--
-**Fareroo7/Fareroo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
