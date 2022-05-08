@@ -10,12 +10,12 @@
 <!--[![](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;-->
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/Fareroo7#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/Fareroo7#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/s1m_d0m#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/s1m_d0m#gh-dark-mode-only)
 
