@@ -59,8 +59,10 @@
 <img align="left" alt="Arduino" width="26px" src="/icons/arduino/arduino-original.svg" />
 <img align="left" alt="RaspberryPi" width="26px" src="/icons/raspberrypi/raspberrypi-original.svg" />
 
-<br/>
-<br/>
+<br />
+<br />
+
+---
 
 ### Recent Activity:
 
