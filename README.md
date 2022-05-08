@@ -48,7 +48,8 @@
 <img align="left" alt="Wordpress" width="26px" src="/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="NodeJs" width="26px" src="/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SqlServer" width="26px" src="/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="SqlServer" width="26px" src="/icons/microsoftsqlserver/microsoftsqlserver-plain.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="SqlServer" width="26px" src="/icons/microsoftsqlserver/microsoftsqlserver-plain-light.svg#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Windows" width="26px" src="/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
