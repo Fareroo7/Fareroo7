@@ -69,6 +69,11 @@
 ### Recent Activity:
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#74](https://github.com/kubernetes-sigs/windows-gmsa/pull/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+2. ❌ Closed PR [#73](https://github.com/kubernetes-sigs/windows-gmsa/pull/73) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+3. 💪 Opened PR [#73](https://github.com/kubernetes-sigs/windows-gmsa/pull/73) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+4. 💪 Opened PR [#72](https://github.com/kubernetes-sigs/windows-gmsa/pull/72) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+<!--END_SECTION:activity-->
 
 ![Fareroo7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fareroo7&show_icons=true&hide_border=false&title_color=8cc837&icon_color=8cc837&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)
 
