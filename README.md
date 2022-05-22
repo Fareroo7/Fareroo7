@@ -70,9 +70,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
-2. ❗️ Opened issue [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
-3. 🗣 Commented on [#74](https://github.com/kubernetes-sigs/windows-gmsa/issues/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
-4. 💪 Opened PR [#74](https://github.com/kubernetes-sigs/windows-gmsa/pull/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+2. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
+3. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
+4. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
 <!--END_SECTION:activity-->
 
 ***
