@@ -69,10 +69,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
-2. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
-3. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
-4. 🗣 Commented on [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
+1. 🗣 Commented on [#74](https://github.com/kubernetes-sigs/windows-gmsa/issues/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+2. ❗️ Closed issue [#218](https://github.com/kubernetes-sigs/sig-windows-tools/issues/218) in [kubernetes-sigs/sig-windows-tools](https://github.com/kubernetes-sigs/sig-windows-tools)
+3. 🗣 Commented on [#74](https://github.com/kubernetes-sigs/windows-gmsa/issues/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+4. 🎉 Merged PR [#1](https://github.com/Fareroo7/windows-gmsa/pull/1) in [Fareroo7/windows-gmsa](https://github.com/Fareroo7/windows-gmsa)
 <!--END_SECTION:activity-->
 
 ***
