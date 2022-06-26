@@ -69,10 +69,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/kubernetes-sigs/windows-gmsa/issues/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
-2. 🎉 Merged PR [#2](https://github.com/Fareroo7/windows-gmsa/pull/2) in [Fareroo7/windows-gmsa](https://github.com/Fareroo7/windows-gmsa)
-3. 💪 Opened PR [#2](https://github.com/Fareroo7/windows-gmsa/pull/2) in [Fareroo7/windows-gmsa](https://github.com/Fareroo7/windows-gmsa)
-4. 🗣 Commented on [#74](https://github.com/kubernetes-sigs/windows-gmsa/issues/74) in [kubernetes-sigs/windows-gmsa](https://github.com/kubernetes-sigs/windows-gmsa)
+1. ❗️ Closed issue [#4940](https://github.com/vmware-tanzu/kubeapps/issues/4940) in [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps)
+2. 🗣 Commented on [#4940](https://github.com/vmware-tanzu/kubeapps/issues/4940) in [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps)
+3. ❗️ Closed issue [#10820](https://github.com/bitnami/charts/issues/10820) in [bitnami/charts](https://github.com/bitnami/charts)
+4. 🗣 Commented on [#10820](https://github.com/bitnami/charts/issues/10820) in [bitnami/charts](https://github.com/bitnami/charts)
 <!--END_SECTION:activity-->
 
 ***
