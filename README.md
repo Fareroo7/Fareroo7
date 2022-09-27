@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Business Central
-- ⚡ Fun fact: I love to ride bikes and game
+- ⚡ Fun fact: I love to ride bikes and play video games
 
 ### Connect with me:
 
