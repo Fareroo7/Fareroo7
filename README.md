@@ -69,7 +69,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4940](https://github.com/vmware-tanzu/kubeapps/issues/4940) in [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps)
+1. ❗️ Opened issue [#520](https://github.com/microsoft/nav-docker/issues/520) in [microsoft/nav-docker](https://github.com/microsoft/nav-docker)
 2. 🗣 Commented on [#4940](https://github.com/vmware-tanzu/kubeapps/issues/4940) in [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps)
 3. ❗️ Closed issue [#10820](https://github.com/bitnami/charts/issues/10820) in [bitnami/charts](https://github.com/bitnami/charts)
 4. 🗣 Commented on [#10820](https://github.com/bitnami/charts/issues/10820) in [bitnami/charts](https://github.com/bitnami/charts)
